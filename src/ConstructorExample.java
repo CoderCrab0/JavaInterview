@@ -3,7 +3,7 @@ class Student{
 	
 	public Student()
 	{
-		System.out.println("I am no Arg Constructor!!!");
+		System.out.println("I am No-Arg Constructor !!!");
 	}
 	
 	public Student(String Name,String Address)
